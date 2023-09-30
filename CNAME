@@ -1,5 +1,5 @@
-$TTL 11107
-www.mali-mgs.com.	IN	A		93.184.216.34
-www.mali-mgs.com.	IN	AAAA		2606:2800:220:1:248:1893:25c8:1946
-www.mali-mgs.com.	IN	CNAME		www.example.com.
-www.mali-mgs.com.	IN	CNAME		www.example.com.
+$TTL 3600
+www.mali-mgs.com.	IN	A		185.199.108.153
+www.mali-mgs.com.	IN	AAAA		2606:50c0:8000::153
+www.mali-mgs.com.	IN	CNAME		https://mhamadoumgs131.github.io/mahamadoumgs131/.
+www.mali-mgs.com.	IN	CNAME		https://mhamadoumgs131.github.io/mahamadoumgs131/.
