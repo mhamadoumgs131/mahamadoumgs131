@@ -1,1 +1,11 @@
-www.mali-mgs.com
+id: 60698
+opcode: QUERY
+status: NOERROR
+flags: qr rd ra cd
+;; QUESTION SECTION:
+;https://mhamadoumgs131.github.io/mahamadoumgs131/	IN CNAME
+;; ANSWER SECTION:
+mhamadoumgs131.github.io. 3600 IN CNAME www.mali-mgs.com.
+mhamadoumgs131.github.io. 3600 IN CNAME www.mali-mgs.com.
+mhamadoumgs131.github.io. 3600 IN CNAME www.mali-mgs.com.
+mhamadoumgs131.github.io. 3600 IN CNAME www.mali-mgs.com.
