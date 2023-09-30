@@ -1,1 +1,5 @@
-mali-mgs.com
+$ dig WWW.MALI-MGS.COM +nostats +nocomments +nocmd
+> ;WWW.MALI-MGS.COM.                    IN      A
+> WWW.MALI-MGS.COM.             3592    IN      CNAME   mgs131.github.io.
+> mgs131.github.io.      43192   IN      CNAME   https://mgs131.github.io/mgs131/ .
+> https://mgs131.github.io/mgs131/ .         22      IN      A       185.199.109.153
